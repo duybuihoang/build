@@ -1,0 +1,71 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DuyBui.AnimationEventHandler" preserve="all" />
+    <type fullname="DuyBui.Boomerang" preserve="all" />
+    <type fullname="DuyBui.Coin" preserve="all" />
+    <type fullname="DuyBui.Collectable" preserve="all" />
+    <type fullname="DuyBui.CollisionSenses" preserve="all" />
+    <type fullname="DuyBui.Core" preserve="all" />
+    <type fullname="DuyBui.D_AttackState" preserve="all" />
+    <type fullname="DuyBui.D_DeathState" preserve="all" />
+    <type fullname="DuyBui.D_HitState" preserve="all" />
+    <type fullname="DuyBui.DamageReceiver" preserve="all" />
+    <type fullname="DuyBui.Death" preserve="all" />
+    <type fullname="DuyBui.Enemies.AnimationToStateMachine" preserve="all" />
+    <type fullname="DuyBui.Enemies.Crabby" preserve="all" />
+    <type fullname="DuyBui.Enemies.D_Entity" preserve="all" />
+    <type fullname="DuyBui.Enemies.D_IdleState" preserve="all" />
+    <type fullname="DuyBui.Enemies.D_RunState" preserve="all" />
+    <type fullname="DuyBui.Flash" preserve="all" />
+    <type fullname="DuyBui.KnockbackReceiver" preserve="all" />
+    <type fullname="DuyBui.Movement" preserve="all" />
+    <type fullname="DuyBui.MovingPlatform" preserve="all" />
+    <type fullname="DuyBui.Player" preserve="all" />
+    <type fullname="DuyBui.PlayerData" preserve="all" />
+    <type fullname="DuyBui.Projectile" preserve="all" />
+    <type fullname="DuyBui.Shoot" preserve="all" />
+    <type fullname="DuyBui.Stats" preserve="all" />
+    <type fullname="DuyBui.Totems" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
+    <type fullname="UnityEngine.PlatformEffector2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+</linker>
